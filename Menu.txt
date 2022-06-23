@@ -1,0 +1,48 @@
+Mars Margarita
+13
+15
+100
+Pepperoni Pluto
+16
+15
+100
+Supernova Cheese
+15
+15
+100
+Galactic Pizza Fusion
+17
+15
+100
+Saturn's Onion Rings
+7
+6
+100
+Crater's Mushroom Soup
+7
+7
+100
+Moondust Lychee Juice
+10
+5
+100
+Space-Ready Orange Soda
+10
+5
+100
+E-T Guava Juice
+7
+5
+100
+Supernova Sprite Fizz
+5
+5
+100
+Venus's Lava Cake
+8.5
+10
+100
+Moon's Vanilla Macaron
+4
+7
+100
